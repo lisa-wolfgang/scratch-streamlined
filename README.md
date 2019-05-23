@@ -1,3 +1,9 @@
+Scratch Streamlined is a slightly modified version of the Scratch 3.0 GUI from 5/22/2019. It removes the use of WebGL to make it compatible/easier to use on certain devices and browsers.
+To use it, go to https://lisa-wolfgang.github.io/scratch-streamlined.
+It will open a blank project. You can load and save projects, but you cannot directly save/edit projects on the Scratch website.
+
+The README for the scratch-gui repository is below.
+
 # scratch-gui
 #### Scratch GUI is a set of React components that comprise the interface for creating and running Scratch 3.0 projects
 
