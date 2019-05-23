@@ -59,7 +59,7 @@ const WrappedPlayer = compose(
     TitledHOC
 )(ConnectedPlayer);
 
-const appTarget = document.createElement('div');
+/* const appTarget = document.createElement('div');
 document.body.appendChild(appTarget);
 
-ReactDOM.render(<WrappedPlayer isPlayerOnly />, appTarget);
+ReactDOM.render(<WrappedPlayer isPlayerOnly />, appTarget); */
